@@ -6,5 +6,5 @@ public class deneme001 {
 		// TODO Auto-generated method stub
 
 	}
-
+// guuncellenmistir
 }
